@@ -1,0 +1,63 @@
+
+page{
+	background-color: #F6F9FF;
+}
+
+@charset "UTF-8";
+/**
+ * 下方引入的为uView UI的集成样式文件，为scss预处理器，其中包含了一些"u-"开头的自定义变量
+ * uView自定义的css类名和scss变量，均以"u-"开头，不会造成冲突，请放心使用 
+ */
+.df.data-v-0f3320de {
+  display: flex;
+}
+.content.data-v-0f3320de {
+  margin-top: 340rpx;
+}
+.content .search-header.data-v-0f3320de {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 99;
+}
+.content .search-list .search-item.data-v-0f3320de {
+  background-color: #fff;
+  margin: 20rpx 30rpx;
+  padding: 0 30rpx;
+}
+.content .search-list .search-item .sit-header.data-v-0f3320de {
+  justify-content: space-between;
+  padding: 27rpx 0;
+  font-size: 32rpx;
+  font-weight: 600;
+}
+.content .search-list .search-item .sit-label.data-v-0f3320de {
+  margin-bottom: 40rpx;
+}
+.content .search-list .search-item .sit-label .label-item.data-v-0f3320de {
+  margin-right: 14rpx;
+  height: 40rpx;
+  line-height: 40rpx;
+  line-height: 40rpx;
+  background: #f4f4f4;
+  border-radius: 4rpx;
+  padding: 0 10rpx;
+}
+.content .search-list .search-item .sit-corporation.data-v-0f3320de {
+  align-items: center;
+  border-top: 2rpx solid #c8c8c8;
+  padding: 31rpx 0;
+}
+.content .search-list .search-item .sit-corporation .corporation-name.data-v-0f3320de {
+  color: #121212;
+  font-size: 28rpx;
+  font-weight: 600;
+  margin: 0 14rpx;
+}
+.content .search-list .search-item .sit-corporation .corporation-address.data-v-0f3320de {
+  flex: 1;
+  text-align: right;
+  color: #717171;
+  font-size: 24rpx;
+}
+

@@ -1,0 +1,130 @@
+@charset "UTF-8";
+/**
+ * 下方引入的为uView UI的集成样式文件，为scss预处理器，其中包含了一些"u-"开头的自定义变量
+ * uView自定义的css类名和scss变量，均以"u-"开头，不会造成冲突，请放心使用 
+ */
+.search-tab .select-nav.data-v-f4dc70fc {
+  position: relative;
+  z-index: 99;
+  display: flex;
+  padding: 0 30rpx;
+  height: 80rpx;
+  line-height: 80rpx;
+  background-color: #fff;
+  justify-content: space-between;
+  font-size: 28rpx;
+}
+.search-tab .select-nav .sn-item.data-v-f4dc70fc {
+  display: flex;
+  align-items: center;
+}
+.search-tab .select-nav .sn-item.sn-item-active.data-v-f4dc70fc {
+  color: #429EFD;
+}
+.search-tab .select-nav .sn-item.sn-item-active .sn-icon.data-v-f4dc70fc {
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+.search-tab .select-nav .sn-icon.data-v-f4dc70fc {
+  margin-left: 10rpx;
+}
+.search-tab .select-main.data-v-f4dc70fc {
+  background-color: #fff;
+  position: absolute;
+  z-index: 99;
+  display: flex;
+}
+.search-tab .select-main .sm-title.data-v-f4dc70fc {
+  background: #f8f8f9;
+  font-size: 26rpx;
+  width: 180rpx;
+}
+.search-tab .select-main .sm-title .sm-title-item.data-v-f4dc70fc {
+  padding-left: 30rpx;
+  height: 80rpx;
+  line-height: 80rpx;
+}
+.search-tab .select-main .sm-title .sm-title-item.sm-title-item-active.data-v-f4dc70fc {
+  background-color: #fff;
+}
+.search-tab .select-main .sm-main.data-v-f4dc70fc {
+  flex: 5;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  padding-left: 40rpx;
+}
+.search-tab .select-main .sm-main .sm-main-item.data-v-f4dc70fc {
+  margin: 0 15rpx;
+  margin-top: 30rpx;
+  height: 70rpx;
+  width: 146rpx;
+  text-align: center;
+  line-height: 70rpx;
+  background-color: #F7F8FA;
+  border-radius: 4rpx;
+}
+.search-tab .select-main .sm-main .sm-main-item.sm-item-active.data-v-f4dc70fc {
+  background-color: #429EFD;
+  color: #fff;
+}
+.search-tab .select-more.data-v-f4dc70fc {
+  position: absolute;
+  z-index: 99;
+  background-color: #fff;
+  padding-top: 14rpx;
+}
+.search-tab .select-more .scroll-Y.data-v-f4dc70fc {
+  height: 80vh;
+}
+.search-tab .select-more .smore-main.data-v-f4dc70fc {
+  padding: 0 30rpx;
+}
+.search-tab .select-more .smore-main .smore-item .smore-title.data-v-f4dc70fc {
+  font-size: 32rpx;
+  font-family: PingFang SC, PingFang SC-Semibold;
+  font-weight: 600;
+  color: #121212;
+  margin-bottom: 36rpx;
+}
+.search-tab .select-more .smore-main .smore-item .smore-value.data-v-f4dc70fc {
+  display: flex;
+  flex-wrap: wrap;
+}
+.search-tab .select-more .smore-main .smore-item .smore-value .smore-value-item.data-v-f4dc70fc {
+  width: 154rpx;
+  height: 70rpx;
+  line-height: 70rpx;
+  background: #f7f8fa;
+  border-radius: 2px;
+  text-align: center;
+  margin-right: 18rpx;
+  margin-bottom: 30rpx;
+}
+.search-tab .select-more .smore-main .smore-item .smore-value .smore-value-item.active.data-v-f4dc70fc {
+  background: #429EFD;
+  color: #fff;
+}
+.search-tab .select-more .smore-bottom.data-v-f4dc70fc {
+  display: flex;
+  height: 173rpx;
+  line-height: 173rpx;
+  padding: 0 30rpx;
+  justify-content: space-between;
+}
+.search-tab .select-more .smore-bottom .resetting.data-v-f4dc70fc, .search-tab .select-more .smore-bottom .confirm.data-v-f4dc70fc {
+  width: 318rpx;
+  height: 80rpx;
+  line-height: 80rpx;
+  text-align: center;
+  font-size: 28rpx;
+  border-radius: 16rpx;
+}
+.search-tab .select-more .smore-bottom .resetting.data-v-f4dc70fc {
+  border: 2rpx solid #c8c8c8;
+}
+.search-tab .select-more .smore-bottom .confirm.data-v-f4dc70fc {
+  background-color: #429EFD;
+  color: #fff;
+}
+

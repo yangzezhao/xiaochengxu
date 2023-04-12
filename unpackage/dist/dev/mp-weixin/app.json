@@ -1,0 +1,48 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/center/index",
+    "pages/pagea/pagea",
+    "pages/pageb/pageb"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uView",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#909399",
+    "selectedColor": "#303133",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/index.png",
+        "selectedIconPath": "static/index-selected.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/center/index",
+        "iconPath": "static/center.png",
+        "selectedIconPath": "static/center-selected.png",
+        "text": "我"
+      },
+      {
+        "pagePath": "pages/pagea/pagea",
+        "iconPath": "static/center.png",
+        "selectedIconPath": "static/center-selected.png",
+        "text": "页面1"
+      },
+      {
+        "pagePath": "pages/pageb/pageb",
+        "iconPath": "static/center.png",
+        "selectedIconPath": "static/center-selected.png",
+        "text": "页面2"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

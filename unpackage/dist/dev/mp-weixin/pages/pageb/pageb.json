@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "uView-center",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-rate": "/uview-ui/components/u-rate/u-rate",
+    "u-button": "/uview-ui/components/u-button/u-button"
+  }
+}

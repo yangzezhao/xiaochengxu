@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/**
+ * 下方引入的为uView UI的集成样式文件，为scss预处理器，其中包含了一些"u-"开头的自定义变量
+ * uView自定义的css类名和scss变量，均以"u-"开头，不会造成冲突，请放心使用 
+ */
+.NavigationBar.data-v-0c6629dc {
+  position: relative;
+  z-index: 99;
+  padding: 0 30rpx;
+  background: radial-gradient(#bcdffd, #cdf4f6);
+}
+.NavigationBar .nb-search.data-v-0c6629dc {
+  padding: 20rpx 0;
+}
+.NavigationBar .nb-search .nb-s-main.data-v-0c6629dc {
+  display: flex;
+  align-items: center;
+  padding: 0 30rpx;
+  height: 80rpx;
+  background: #ffffff;
+  border-radius: 20rpx;
+}
+.NavigationBar .nb-search .nb-s-main .nb-s-s.data-v-0c6629dc {
+  flex: 1;
+  margin-left: 20rpx;
+}
+

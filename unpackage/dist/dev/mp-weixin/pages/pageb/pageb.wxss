@@ -1,0 +1,254 @@
+@charset "UTF-8";
+/**
+ * 下方引入的为uView UI的集成样式文件，为scss预处理器，其中包含了一些"u-"开头的自定义变量
+ * uView自定义的css类名和scss变量，均以"u-"开头，不会造成冲突，请放心使用 
+ */
+.content.data-v-35f6ceee {
+  background-color: #f9f9f9;
+}
+.content .card1.data-v-35f6ceee {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 750rpx;
+  margin: 20rpx 0;
+  background-color: white;
+  padding: 30rpx;
+}
+.content .card1 .head.data-v-35f6ceee {
+  display: flex;
+  justify-content: space-between;
+}
+.content .card1 .head .name.data-v-35f6ceee {
+  font-weight: bold;
+  color: #121212;
+  font-size: 32rpx;
+}
+.content .card1 .head .time.data-v-35f6ceee {
+  font-size: 24rpx;
+  color: #717171;
+}
+.content .card1 .bread.data-v-35f6ceee {
+  display: flex;
+  color: #717171;
+  align-items: center;
+  margin: 20rpx 0;
+}
+.content .card1 .bread .breadItem.data-v-35f6ceee {
+  font-size: 24rpx;
+  height: 40rpx;
+  line-height: 40rpx;
+  margin-right: 14rpx;
+  padding: 0 8rpx;
+  background-color: #f4f4f4;
+}
+.content .card1 .salary.data-v-35f6ceee {
+  color: #3FABFF;
+  font-size: 32rpx;
+}
+.content .card1 .end.data-v-35f6ceee {
+  display: flex;
+  justify-content: space-between;
+  font-size: 24rpx;
+  color: #717171;
+  margin-top: 21rpx;
+}
+.content .card2.data-v-35f6ceee {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 30rpx;
+}
+.content .card2 .name.data-v-35f6ceee {
+  margin: 30rpx 0;
+  font-weight: bold;
+  color: #121212;
+  font-size: 32rpx;
+}
+.content .card2 .desc.data-v-35f6ceee {
+  font-size: 24rpx;
+  color: #121212;
+  display: flex;
+  flex-direction: column;
+}
+.content .card2 .desc text.data-v-35f6ceee {
+  line-height: 50rpx;
+}
+.content .card2 .title.data-v-35f6ceee {
+  margin: 15rpx;
+  font-weight: bold;
+}
+.content .card3.data-v-35f6ceee {
+  height: 207rpx;
+  width: 750rpx;
+  background-color: white;
+  margin: 20rpx 0;
+  padding: 30rpx;
+  display: flex;
+  flex-direction: column;
+}
+.content .card3 .name.data-v-35f6ceee {
+  font-weight: bold;
+  color: #121212;
+  font-size: 32rpx;
+}
+.content .card3 .end.data-v-35f6ceee {
+  margin: 30rpx 0;
+  display: flex;
+}
+.content .card3 .end image.data-v-35f6ceee {
+  width: 64rpx;
+  height: 64rpx;
+}
+.content .card3 .end .detail.data-v-35f6ceee {
+  font-size: 24rpx;
+  width: 600rpx;
+  margin: 0 30rpx;
+}
+.content .card4.data-v-35f6ceee {
+  display: flex;
+  background-color: white;
+  flex-direction: column;
+  padding: 30rpx;
+}
+.content .card4 .head.data-v-35f6ceee {
+  display: flex;
+  justify-content: space-between;
+}
+.content .card4 .head .card_name.data-v-35f6ceee {
+  font-weight: bold;
+  color: #121212;
+  font-size: 32rpx;
+}
+.content .card4 .head image.data-v-35f6ceee {
+  width: 36rpx;
+  height: 36rpx;
+}
+.content .card4 .info.data-v-35f6ceee {
+  margin-top: 30rpx;
+  display: flex;
+  align-items: center;
+}
+.content .card4 .info image.data-v-35f6ceee {
+  width: 114rpx;
+  height: 114rpx;
+}
+.content .card4 .info .com_detail.data-v-35f6ceee {
+  padding: 23rpx;
+}
+.content .card4 .info .com_name.data-v-35f6ceee {
+  font-weight: bold;
+  font-size: 32rpx;
+}
+.content .card4 .info .com_text.data-v-35f6ceee {
+  margin-top: 21rpx;
+  font-size: 24rpx;
+}
+.content .card4 .address.data-v-35f6ceee {
+  margin-top: 72rpx;
+  display: flex;
+  justify-content: space-between;
+}
+.content .card4 .address .card_name.data-v-35f6ceee {
+  font-weight: bold;
+  font-size: 32rpx;
+}
+.content .card4 .address .go_here.data-v-35f6ceee {
+  color: #3FADFF;
+}
+.content .card4 .address .go_here image.data-v-35f6ceee {
+  width: 32rpx;
+  height: 32rpx;
+}
+.content .card4 .here_map.data-v-35f6ceee {
+  width: 680rpx;
+  height: 400rpx;
+  margin: 0 auto;
+}
+.content .card4 .person.data-v-35f6ceee {
+  position: relative;
+  margin-top: 56rpx;
+  display: flex;
+}
+.content .card4 .person .com_person.data-v-35f6ceee {
+  width: 90rpx;
+  height: 90rpx;
+}
+.content .card4 .person .person_detail.data-v-35f6ceee {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  justify-content: center;
+  margin-left: 24rpx;
+}
+.content .card4 .person .person_detail .person_name.data-v-35f6ceee {
+  font-size: 32rpx;
+  font-weight: bold;
+}
+.content .card4 .person .person_detail .person_tel.data-v-35f6ceee {
+  margin-top: 10rpx;
+  font-size: 28rpx;
+  color: #4F4F4F;
+}
+.content .card4 .person .person_call.data-v-35f6ceee {
+  position: absolute;
+  right: 30rpx;
+  width: 32rpx;
+  height: 32rpx;
+}
+.content .card4 .photo.data-v-35f6ceee {
+  display: flex;
+  flex-direction: column;
+}
+.content .card4 .photo .photo_list.data-v-35f6ceee {
+  margin-top: 40rpx;
+  width: 750rpx;
+  white-space: nowrap;
+  overflow-x: auto;
+  display: -webkit-box;
+  -webkit-overflow-scrolling: touch;
+}
+.content .card4 .photo .photo_list image.data-v-35f6ceee {
+  display: inline-block;
+  margin-right: 40rpx;
+  width: 276rpx;
+  height: 262rpx;
+  border-radius: 10rpx;
+}
+.content .card4 .commitList.data-v-35f6ceee {
+  margin-bottom: 120rpx;
+}
+.content .footer.data-v-35f6ceee {
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  width: 750rpx;
+  height: 120rpx;
+  background-color: white;
+  font-size: 28rpx;
+}
+.content .footer .collect.data-v-35f6ceee {
+  display: flex;
+  margin-left: 36rpx;
+  flex-direction: column;
+}
+.content .footer .collect image.data-v-35f6ceee {
+  width: 44rpx;
+  height: 44rpx;
+}
+.content .footer .share.data-v-35f6ceee {
+  margin-left: 56rpx;
+  display: flex;
+  flex-direction: column;
+  display: flex;
+}
+.content .footer .share image.data-v-35f6ceee {
+  width: 44rpx;
+  height: 44rpx;
+}
+.content .footer .u-button.data-v-35f6ceee {
+  width: 213rpx;
+  height: 80rpx;
+}
+
