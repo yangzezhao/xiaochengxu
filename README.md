@@ -35,5 +35,5 @@
 ![首页-选项卡2](https://user-images.githubusercontent.com/130549040/231963205-214997b0-69e9-4415-8a6a-695ee7baaff3.PNG)
 ![我](https://user-images.githubusercontent.com/130549040/231963258-21b3bfd7-9edc-47c6-a8ef-5d46919cb987.PNG)
 ![已聊](https://user-images.githubusercontent.com/130549040/231963293-15f7b1dd-132c-4cf2-bb6a-f0a5f4b5d89c.PNG)
-![公司信息](https://user-images.githubusercontent.com/130549040/231963305-21ae35b9-404e-4f02-8a31-0f6a03444205.PNG)
+![公司信息](https://user-images.githubusercontent.com/130549040/231993922-2c24eefc-a354-44fa-b579-e6181889a9c7.PNG)
 
