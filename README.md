@@ -27,3 +27,13 @@
 页面三显示用户个人信息与用户个人简历
 
 页面四显示公司招聘的职位信息与公司的简介、地址、联系人、公司环境等，在页面底部可收藏分享职位信息，也可立即沟通投递简历
+
+## 效果截图
+
+![首页](https://user-images.githubusercontent.com/130549040/231963163-f799a881-dc95-44b2-99fa-827b7c1abc20.PNG)
+![首页-选项卡](https://user-images.githubusercontent.com/130549040/231963186-0cbecfa2-7f6c-438a-b990-e45fec307366.PNG)
+![首页-选项卡2](https://user-images.githubusercontent.com/130549040/231963205-214997b0-69e9-4415-8a6a-695ee7baaff3.PNG)
+![我](https://user-images.githubusercontent.com/130549040/231963258-21b3bfd7-9edc-47c6-a8ef-5d46919cb987.PNG)
+![已聊](https://user-images.githubusercontent.com/130549040/231963293-15f7b1dd-132c-4cf2-bb6a-f0a5f4b5d89c.PNG)
+![公司信息](https://user-images.githubusercontent.com/130549040/231963305-21ae35b9-404e-4f02-8a31-0f6a03444205.PNG)
+
